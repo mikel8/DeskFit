@@ -1,0 +1,4 @@
+• Verbesserte Abonnementsystem
+• Updates zur RevenueCat-Zugangsbeschränkung
+• Leistungsverbesserungen
+• Fehlerbehebungen

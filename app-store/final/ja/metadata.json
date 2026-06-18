@@ -1,0 +1,24 @@
+{
+  "locale": "ja",
+  "name": "Office Exercise: Desk Stretch",
+  "subtitle": "姿勢と腰痛をすぐに改善",
+  "promotional_text": "デスクでできる短時間のエクササイズで、痛みを和らげ、姿勢を改善し、エネルギーを高めましょう。",
+  "description": "DeskFitは、リモートワーカー、ゲーマー、オフィスプロフェッショナルが、デスクで簡単にできる科学に基づいたワークアウトで痛みを軽減し、姿勢を改善し、エネルギーを高めるためのアプリです。\n\n現代の仕事やゲームの習慣は、長時間の座りっぱなしを強いることが多く、研究によると、リモートワーカーの約70%が新たにまたは悪化した首、肩、背中の痛みに悩まされています。DeskFitは、デスクに縛られたライフスタイルに合わせたシンプルで効果的な日常プログラムを提供します。\n\nDeskFitの特徴\n\n10〜15分のデイリーワークアウト – 認定トレーナーや理学療法士が設計した、姿勢、可動性、コアの強化を目的としたルーチンをガイドします。\n\nエルゴノミクス教育 – 作業環境を整え、負担を軽減し、怪我を防ぐ方法を学びます。\n\n習慣トラッキング – リマインダー、ストリーク、進捗チャートで一貫性を保ちます。\n\nストレッチブレイク – 日中の短時間でできるストレッチのライブラリをオンデマンドで利用できます。\n\nコミュニティサポート – 姿勢や生産性を向上させる仲間と共に成長しましょう。\n\n利点\n\n背中、首、肩の痛みを和らげる\n\n姿勢と可動性を改善\n\n仕事中の集中力とエネルギーを高める\n\n長期的な筋骨格の問題を防ぐ\n\n毎日数分でアクティブに\n\n対象者\n\nリモートワーカー\n\nゲーマー\n\n学生\n\nオフィスプロフェッショナル\n\nDeskFitは、短時間で効果的なルーチンを提供し、忙しいスケジュールにフィットします。ジムや特別な器具は不要—あなたとデスク、そして毎日数分の時間だけで大丈夫です。\n\n痛みのない、健康的な仕事の日々への第一歩を踏み出しましょう。今すぐDeskFitをダウンロードして、背骨を整え、あなたの可能性を引き出しましょう。",
+  "keywords": "デスクワークアウト,オフィスストレッチ,姿勢,腰痛,首のストレッチ,ストレッチブレイク,エルゴノミクス",
+  "support_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "marketing_url": "",
+  "privacy_policy_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "source": "final-merged",
+  "finalized_at": "2026-06-18T11:04:24.030Z",
+  "merge_strategy": {
+    "name": "generated",
+    "subtitle": "generated",
+    "promotional_text": "generated",
+    "description": "generated",
+    "keywords": "generated",
+    "support_url": "generated",
+    "marketing_url": "generated",
+    "privacy_policy_url": "generated",
+    "release_notes": "generated"
+  }
+}

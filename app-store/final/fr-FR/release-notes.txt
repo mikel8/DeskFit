@@ -1,0 +1,4 @@
+• Amélioration du système d'abonnement
+• Mises à jour du paywall RevenueCat
+• Améliorations de performance
+• Corrections de bugs

@@ -1,0 +1,4 @@
+• Mejora en el sistema de suscripción
+• Actualizaciones en el muro de pago de RevenueCat
+• Mejoras en el rendimiento
+• Corrección de errores

@@ -1,0 +1,24 @@
+{
+  "locale": "zh-Hans",
+  "name": "Office Exercise: Desk Stretch",
+  "subtitle": "快速改善姿势与背痛",
+  "promotional_text": "通过科学的桌边锻炼，缓解疼痛、改善姿势、提升能量，适合远程工作者、游戏玩家和办公室专业人士。",
+  "description": "DeskFit 帮助远程工作者、游戏玩家和办公室专业人士通过快速、科学的锻炼，减轻疼痛、改善姿势并提升能量，这些锻炼可以在您的办公桌旁轻松完成。\n\n现代工作和游戏习惯往往意味着长时间坐在设计不佳的工作环境中。研究表明，近 70% 的远程工作者都遭受颈部、肩部和背部疼痛的困扰。DeskFit 提供了一个简单有效的日常计划，专为久坐生活方式量身定制。\n\n为什么选择 DeskFit？\n\n- 10-15 分钟的日常锻炼：由认证教练和物理治疗师设计的指导性姿势、灵活性和核心力量训练。\n\n- 人体工学教育：学习如何设置工作站以减少压力和预防伤害。\n\n- 习惯追踪：通过提醒、连续打卡和进度图表保持一致性。\n\n- 伸展休息：按需提供短暂的伸展库，帮助您在日常工作中快速缓解疲劳。\n\n- 社区支持：与其他人一起改善姿势和生产力。\n\n好处：\n\n- 缓解背部、颈部和肩部疼痛\n- 改善姿势和灵活性\n- 提升工作时的专注力和能量\n- 预防长期肌肉骨骼问题\n- 每天只需几分钟保持活跃\n\n适合人群：\n\n- 远程工作者\n- 游戏玩家\n- 学生\n- 办公室专业人士\n\nDeskFit 适合您的繁忙日程，提供短小有效的锻炼。无需健身房或特殊设备——只需您、您的桌子和每天几分钟的时间。\n\n迈出通往无痛、健康工作日的第一步。立即下载 DeskFit，调整您的脊柱，释放您的潜力。",
+  "keywords": "桌边锻炼,办公室伸展,姿势,背痛,颈部伸展,伸展休息,人体工学",
+  "support_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "marketing_url": "",
+  "privacy_policy_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "source": "final-merged",
+  "finalized_at": "2026-06-18T11:04:24.031Z",
+  "merge_strategy": {
+    "name": "generated",
+    "subtitle": "generated",
+    "promotional_text": "generated",
+    "description": "generated",
+    "keywords": "generated",
+    "support_url": "generated",
+    "marketing_url": "generated",
+    "privacy_policy_url": "generated",
+    "release_notes": "generated"
+  }
+}

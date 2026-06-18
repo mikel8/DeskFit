@@ -1,0 +1,24 @@
+{
+  "locale": "fr-FR",
+  "name": "Office Exercise: Desk Stretch",
+  "subtitle": "Corrigez votre posture vite",
+  "promotional_text": "Réduisez la douleur et améliorez votre posture avec des exercices rapides et efficaces à faire au bureau.",
+  "description": "DeskFit aide les travailleurs à distance, les gamers et les professionnels de bureau à réduire la douleur, améliorer leur posture et augmenter leur énergie grâce à des séances d'entraînement rapides et basées sur des recherches scientifiques, que vous pouvez réaliser directement à votre bureau.\n\nLes habitudes de travail et de jeu modernes entraînent souvent de longues heures passées assis dans des configurations mal conçues. Des études montrent que près de 70 % des travailleurs à distance souffrent de douleurs au cou, aux épaules et au dos, nouvelles ou aggravées. DeskFit offre une solution avec un programme quotidien simple et efficace, adapté aux modes de vie sédentaires.\n\nPourquoi choisir DeskFit ?\n\nSéances d'entraînement quotidiennes de 10 à 15 minutes – Routines guidées de posture, de mobilité et de renforcement du tronc conçues par des entraîneurs certifiés et des physiothérapeutes.\n\nÉducation ergonomique – Apprenez à configurer votre poste de travail pour réduire la fatigue et prévenir les blessures.\n\nSuivi des habitudes – Restez constant avec des rappels, des séries et des graphiques de progression.\n\nPauses étirements – Bibliothèque à la demande d'étirements courts pour un soulagement rapide durant la journée.\n\nSoutien communautaire – Rejoignez d'autres personnes qui améliorent leur posture et leur productivité ensemble.\n\nAvantages\n\nSoulagez les douleurs au dos, au cou et aux épaules\n\nAméliorez votre posture et votre mobilité\n\nAugmentez votre concentration et votre énergie au travail\n\nPrévenez les problèmes musculo-squelettiques à long terme\n\nRestez actif en seulement quelques minutes par jour\n\nIdéal pour\n\nTravailleurs à distance\n\nGamers\n\nÉtudiants\n\nProfessionnels de bureau\n\nDeskFit s'intègre parfaitement à votre emploi du temps chargé avec des routines courtes et efficaces. Pas de gym, pas d'équipement spécial : juste vous, votre bureau et quelques minutes chaque jour.\n\nFaites le premier pas vers une journée de travail sans douleur et plus saine. Téléchargez DeskFit aujourd'hui et réalignez votre colonne vertébrale, libérez votre potentiel.",
+  "keywords": "exercice bureau,étirements bureau,posture,douleur dos,étirement cou,pauses étirements,ergonomie",
+  "support_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "marketing_url": "",
+  "privacy_policy_url": "https://sites.google.com/view/ebmgroup/deskfit-privacy-policy",
+  "source": "final-merged",
+  "finalized_at": "2026-06-18T11:04:24.030Z",
+  "merge_strategy": {
+    "name": "generated",
+    "subtitle": "generated",
+    "promotional_text": "generated",
+    "description": "generated",
+    "keywords": "generated",
+    "support_url": "generated",
+    "marketing_url": "generated",
+    "privacy_policy_url": "generated",
+    "release_notes": "generated"
+  }
+}

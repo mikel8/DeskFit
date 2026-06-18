@@ -1,0 +1,4 @@
+• Enhanced subscription system
+• Updates to RevenueCat paywall
+• Performance enhancements
+• Bug fixes
