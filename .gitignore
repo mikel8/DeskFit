@@ -33,3 +33,15 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Local secrets / build artifacts
+.env
+.env.*
+*.ipa
+*.zip
+GoogleService-Info.plist
+ios/**/GoogleService-Info.plist
+google-services.json
+node_modules/
+builds/
+build-artifacts/
